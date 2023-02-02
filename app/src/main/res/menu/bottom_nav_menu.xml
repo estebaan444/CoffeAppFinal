@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        tools:ignore="MenuTitle" />
+
+    <item
+        android:id="@+id/navigation_primer_plat"
+        android:icon="@drawable/food_croissant"
+        tools:ignore="MenuTitle" />
+
+    <item
+        android:id="@+id/navigation_segon_plat"
+        android:icon="@drawable/coffee"
+        tools:ignore="MenuTitle" />
+
+    <item
+        android:id="@+id/navigation_pagar_comanda"
+        android:icon="@drawable/pagar"
+        tools:ignore="MenuTitle" />
+
+    <item
+        android:id="@+id/navigation_historial"
+        android:icon="@drawable/history"
+        tools:ignore="MenuTitle" />
+
+</menu>

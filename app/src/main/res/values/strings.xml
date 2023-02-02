@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CoffeAppFinal</string>
+    <string name="imageLogo">TODO</string>
+    <string name="userLoginText">User</string>
+    <string name="userPasswordText">Password</string>
+    <string name="loginButton">LOGIN</string>
+    <string name="goToRegisterButton">REGISTER</string>
+    <string name="regiterButtonToLogin">REGISTER</string>
+    <string name="REGISTERbUTTON">Register</string>
+    <string name="goToLoginButton">LOGIN</string>
+    <string name="title_activity_main_ui">MainUi</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="preferits">Preferits</string>
+    <string name="logout">LOGOUT</string>
+</resources>
