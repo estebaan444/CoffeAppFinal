@@ -91,9 +91,6 @@ class HomeFragment : Fragment() {
                         val intent = Intent(Intent.ACTION_VIEW, Uri.parse(uri))
                         context.startActivity(intent)
                     })
-                .setNegativeButton("CANCEL",
-                    DialogInterface.OnClickListener { dialog, id ->
-                    })
             show()
         }
     }
