@@ -30,9 +30,6 @@ class HistorialFragment : Fragment() {
         container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View {
-        val historialViewModel =
-            ViewModelProvider(this).get(HistorialViewModel::class.java)
-
         _binding = FragmentHistorialBinding.inflate(inflater, container, false)
 
 

@@ -45,4 +45,13 @@
         app:layout_constraintStart_toEndOf="@+id/total"
         app:layout_constraintTop_toBottomOf="@+id/recibo" />
 
+    <Button
+        android:id="@+id/cancelarComanda"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="60dp"
+        android:text="CANCELAR COMANDA"
+        app:layout_constraintBottom_toBottomOf="parent"
+        tools:layout_editor_absoluteX="173dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
